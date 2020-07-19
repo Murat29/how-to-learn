@@ -271,6 +271,7 @@ z-index: 1;
   position: absolute;
   right: -210px;
   top: 0px;
+  background-size: cover;
 }
 
 .footer {
