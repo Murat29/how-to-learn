@@ -1,0 +1,8 @@
+
+.limpidity {
+    transition: opacity 2s ease;
+}
+
+.limpidity:hover {
+opacity: .3;
+}
