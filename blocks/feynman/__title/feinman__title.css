@@ -1,6 +1,6 @@
 .feinman__title {
     position: relative;
-    width: 648px;
+    max-width: 648px;
     text-align: center;
     margin: 0px auto 0px;
     line-height: 1.15;

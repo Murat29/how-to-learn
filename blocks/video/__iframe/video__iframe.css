@@ -1,7 +1,11 @@
 .video__iframe {
  z-index: 1;
+ border: none;
+ width: 515px;
+ height: 316px;
+
 }
 
-.video__iframe:first-of-type {
+.video__iframe:nth-child(odd) {
   margin-right: 20px;
 }
