@@ -25,11 +25,11 @@
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 
-@import url(../blocks/feynman/feinman.css);
-@import url(../blocks/feynman/__title/feinman__title.css);
-@import url(../blocks/feynman/__subtitle/feinman__subtitle.css);
-@import url(../blocks/feynman/__link/feinman__link.css);
-@import url(../blocks/feynman/__image/feinman__image.css);
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__image/feynman__image.css);
 
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
@@ -80,6 +80,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo-img/resources__logo-img.css);
 
 @import url(../blocks/rotation/rotation.css);
 
